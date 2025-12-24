@@ -1,6 +1,6 @@
 #!/bin/bash
-set -e
+# Navigate to the Tinybox binary folder
+cd /app/Tinybox-linux
 
-echo "Starting Tinybox in headless mode..."
-cd /app
+# Run Tinybox in headless mode
 ./Tinybox.x86_64 --headless

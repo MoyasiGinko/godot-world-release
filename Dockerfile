@@ -15,7 +15,7 @@ WORKDIR /app
 # Download Tinybox Linux build from GitHub Releases
 RUN wget https://github.com/caelan-douglas/tinybox/releases/download/beta-13.1/Tinybox-b13.1-linux.zip \
     && unzip Tinybox-b13.1-linux.zip \
-    && chmod +x Tinybox.x86_64 \
+    && chmod +x Tinybox-linux/Tinybox.x86_64 \
     && rm Tinybox-b13.1-linux.zip
 
 # Copy startup script
