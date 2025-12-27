@@ -21,7 +21,7 @@
   },
   {
     "name": "My Cloud Server",
-    "address": "your-public-ip:30815",  // Replace with your cloud VM's public IP
+    "address": "your-public-ip:30815",
     "hosted_by": "Your Name"
   }
 ]
