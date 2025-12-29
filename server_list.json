@@ -21,7 +21,7 @@
   },
   {
     "name": "My Cloud Server",
-    "address": "your-public-ip:30815",
+    "address": "103.190.132.79:30815",
     "hosted_by": "Your Name"
   }
 ]
