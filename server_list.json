@@ -28,5 +28,10 @@
     "name": "TLTK Cloud Server",
     "address": "103.230.107.17:30815",
     "hosted_by": "Your Name"
+  },
+  {
+    "name": "TLTK DNS Server",
+    "address": "172.217.43.145:30815",
+    "hosted_by": "Your Name"
   }
 ]
